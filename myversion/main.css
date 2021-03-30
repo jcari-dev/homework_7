@@ -1,0 +1,37 @@
+body {
+    background-color: #e5e5f7;
+}
+
+h1 {
+    text-align: center;
+}
+
+#divAddToList {
+    text-align: center;
+    padding-bottom: 25px;
+
+}
+
+#divToDo {
+
+    float: right;
+    width: 35%;
+
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#divComplete {
+
+    float: left;
+    width: 35%;
+
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+p {
+    align-items: center;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
